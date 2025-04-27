@@ -178,7 +178,7 @@ def calculate_risk(factors):
     global weights_list
     # maximum values, each value is a reasonable maximum that the user can input
     # ex: reasonable max temp is 100, reasonable max humidity is 80, etc
-    max_list = [100,80,30,10,50,130]
+    max_list = [100,80,20,10,50,130]
     # weights work in the same way in that each one corresponds to its environmental factor
     weights_list = [0.25,0.20,0.08,0.23,0.13,0.11] # must add to 100%, or 1
     # ex: temp is 0.25, meaning temperature contributes to 25% of what causes a wildfire
