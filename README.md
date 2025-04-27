@@ -5,6 +5,7 @@
 ### Unzip file
 
 ### Open "fire_predictor.exe"
+ If it automatically closes, try turning off antivirus.
  Click on dark green text boxes to input text.
  Once all field have been filled in, press "calculate"
   (Calculate button will not work if not all green boxes have been filled in).
